@@ -32,3 +32,4 @@ Driven by a passion for digital safety and ethical hacking. Keen on building, au
 ## 📫 Connect With Me
 - Email: vedant@example.com
 - LinkedIn: [linkedin.com/in/vedant](https://www.linkedin.com/in/vedant)
+![Cyber Security Themed](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80)
