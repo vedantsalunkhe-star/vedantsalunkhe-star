@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vedant
 
-Aspiring Cyber Security Professional | Information Technology Learner
+Aspiring Cyber Security learner | Information Technology Learner
 
 ---
 
